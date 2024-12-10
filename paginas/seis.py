@@ -1,0 +1,6 @@
+import streamlit as st
+import numpy as np
+import matplotlib.pyplot as plt
+
+st.subheader("¿Quién soy?")
+st.markdown('''Mi nombre es Neider Villamizar, aunque me gusta más que me conozcan como Neider Otero o ser llamado Nei, tengo 18 años, soy graduado del colegio Nuestra Señora del Pilar y actualmente estoy cursando el primer semestre de la carrera de Matemáticas en la Universidad Industrial de Santander. En el colegio me llamaba la atención las Matemáticas, les tenia facilidad y me entretenían, pero no pensé en que la iba llegar a estudiar, tenía pensando estudiar ingeniería mecánica. Me gusta el deporte, sobretodo el voleibol, aunque, cualquier cosa que sea de correr o competir me llama la atención, también se me facilitan la mayoría de los deportes. Lo que más me gusta de la Matemática es la geometría me parece interesante todas las propiedades y relaciones pueden llegar a tener una figura en infinidades de perspectivas. Durante mi primer semestre cursé la asignatura de programación 1, aprendí muchas cosas, logré aprender sobre los seudocódigos, implementarlos en python y más cosas, en programación no solo aprendí cosas sobre programar, también me di cuenta lo importante que es saber elegir a las personas para trabajos, la importancia del trabajo grupal y la buena relación que se puede llegar a tener con un profesor. ''')
